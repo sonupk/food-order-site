@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+}
+
+p {
+  background-color: yellow;
+  color: red;
+  border: 3px dashed black;
+}
+
+div {
+  background-color: blueviolet;
+  padding: 1rem;
+}
